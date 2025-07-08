@@ -48,6 +48,7 @@
                          <button type="submit" class="btn btn-success w-100">Register</button>
                     </form>
                     <p class="text-center mt-3 small">Registered already? <a href="../views">Login</a></p>
+                    <p>The Company</p>
                 </div>
             </div>
         </div>

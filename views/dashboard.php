@@ -34,7 +34,7 @@ $all_users = $user_obj->getAllUsers();
     <nav class="navbar navbar-expand bg-dark px-3 mb-5">
     <div class="container-fluid d-flex justify-content-between align-items-center">
         <a href="dashboard.php" class="navbar-brand text-white text-decoration-none">
-            <h1 class="h3 mb-0">The Company</h1>
+            <h1 class="h3 mb-0">The Compan OOP</h1>
         </a>
 
         <div class="d-flex align-items-center">
